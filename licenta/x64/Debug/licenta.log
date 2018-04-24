@@ -1,0 +1,4 @@
+﻿  image.cpp
+c:\users\oana\source\repos\licenta\licenta\image.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\oana\source\repos\licenta\licenta\image.cpp(21): warning C4715: 'MyImage::ImageFromCamera': not all control paths return a value
+  licenta.vcxproj -> C:\Users\Oana\source\repos\licenta\x64\Debug\licenta.exe
